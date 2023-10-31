@@ -1,0 +1,28 @@
+p{
+    height: 50px;
+    width: auto;
+    font-size: 20px;
+    margin: 0px;
+    padding: 5px;
+}
+#Darkblue{
+    background-color: rgb(71, 71, 150);
+}
+
+#lightblue{
+    background-color: rgb(93, 140, 187);
+}
+
+#Done{
+    background-color: rgb(180, 179, 179);
+    
+}
+span{
+    text-decoration: line-through;
+}
+#Done::before{
+    content: url('./icons/checked_16.png');
+}
+#lightblue::before{
+    content: url('./icons/checked_16.png');
+}

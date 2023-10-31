@@ -1,0 +1,18 @@
+div{
+    height: auto;
+    width: auto;
+    color: white;
+    background-color: rgb(220, 155, 167);
+}
+
+p{
+    width: 1000px ;
+    background-color: palevioletred;
+    padding: 10px 30px 10px 10px;
+    margin: 10px;
+}
+span{
+    background-color: rgb(142, 74, 97);
+    padding: 10px 30px 10px 30px;
+    margin: 10px;
+}
